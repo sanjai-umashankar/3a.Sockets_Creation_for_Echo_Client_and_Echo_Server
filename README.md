@@ -22,6 +22,7 @@ while True:
 ```
 
 ## SERVER
+
 ```
 import socket 
 s=socket.socket() 
@@ -36,6 +37,7 @@ while True:
 ## OUPUT
 ## CLIENT
 <img width="1710" height="546" alt="image" src="https://github.com/user-attachments/assets/439d8142-8c53-4836-9dfd-e5f833200d5d" />
+
 ## SERVER
 <img width="1667" height="578" alt="image" src="https://github.com/user-attachments/assets/5ee71810-6f0a-4647-a361-6c71883e2add" />
 
